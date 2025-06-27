@@ -2,10 +2,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=F76900&width=600&lines=Hi+there!+I'm+Sherap+Choephel+Hyolmo;Aspiring+Data+Scientist+%7C+Developer+%7C+Tech+Explorer)
 
 <!-- Snake animation of contributions -->
-![Contribution Snake](https://github.com/sherapchoephelhyolmo/sherapchoephelhyolmo/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://github.com/daydevil80/daydevil80/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Trophies & visual flair -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=sherapchoephelhyolmo&theme=radical&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=daydevil80&theme=radical&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -35,8 +35,8 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sherapchoephelhyolmo&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherapchoephelhyolmo&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daydevil80&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daydevil80&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
