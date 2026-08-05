@@ -56,7 +56,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sherap-choephel-hyplmo-62b624236/">
+  <a href="[https://www.linkedin.com/in/sherap-choephel-hyplmo-62b624236/](https://www.linkedin.com/in/sherapchoephelhyolmo/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
